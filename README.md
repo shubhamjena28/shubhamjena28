@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c9435d20-cbff-4c1d-a92c-f161073689f8" />
 <h1 align="center">Hi 👋, I'm Shubham Jena</h1>
 <h3 align="center">CSE Student | ML Explorer | Problem Solver</h3>
 

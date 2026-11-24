@@ -28,4 +28,8 @@
 
 <h3 align="left">Snake Eating My Contributions Graph:</h3>
 
-![snake gif](https://github.com/shubhamjena28/shubhamjena28/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamjena28/shubhamjena28/output/github-contribution-grid-snake-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamjena28/shubhamjena28/output/github-contribution-grid-snake.gif">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/shubhamjena28/shubhamjena28/output/github-contribution-grid-snake-dark.gif">
+</picture>

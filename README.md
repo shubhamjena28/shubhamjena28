@@ -25,3 +25,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamjena28&show_icons=true&locale=en&layout=compact" alt="shubhamjena28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamjena28&show_icons=true&locale=en" alt="shubhamjena28" /></p>
+
+<h3 align="left">Snake Eating My Contributions Graph:</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamjena28/shubhamjena28/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamjena28/shubhamjena28/output/github-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/shubhamjena28/shubhamjena28/output/github-snake.svg">
+</picture>

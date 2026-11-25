@@ -1,0 +1,276 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610" role="img" aria-label="Shubham Jena - CSE Student and Machine Learning Explorer Profile Hero Banner">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="50%" stop-color="#07111F" />
+      <stop offset="100%" stop-color="#0B1220" />
+    </linearGradient>
+    <linearGradient id="frame-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" />
+      <stop offset="35%" stop-color="#38BDF8" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+    <linearGradient id="name-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8FAFC" />
+      <stop offset="60%" stop-color="#22D3EE" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+    <pattern id="grid-pattern" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1E293B" stroke-width="0.75" opacity="0.3" />
+    </pattern>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Outer Frame -->
+  <rect width="1180" height="610" rx="22" fill="url(#bg-grad)" stroke="url(#frame-border)" stroke-width="1.5" />
+  <rect width="1180" height="610" rx="22" fill="url(#grid-pattern)" />
+
+  <!-- Top Terminal Header Bar -->
+  <g class="mono">
+    <circle cx="36" cy="34" r="5.5" fill="#EF4444" />
+    <circle cx="54" cy="34" r="5.5" fill="#F59E0B" />
+    <circle cx="72" cy="34" r="5.5" fill="#10B981" />
+    <text x="96" y="38" font-size="12" font-weight="600" fill="#94A3B8">shubhamjena28@devbox:~ [ONLINE]</text>
+    <text x="590" y="38" text-anchor="middle" font-size="11" fill="#64748B">[CODE]   [MODELS]   [PROJECTS]   [TELEMETRY]   [CONNECT]</text>
+    <text x="1144" y="38" text-anchor="end" font-size="11" fill="#22D3EE">● SYS.KERNEL: ML-CV-v3.8 · LATENCY: 14ms</text>
+    <line x1="20" y1="52" x2="1160" y2="52" stroke="#1E293B" stroke-width="1" opacity="0.7" />
+  </g>
+
+  <!-- ==================== LEFT COLUMN: VISUAL.MAP / IDENTITY ==================== -->
+  <g class="mono">
+    <!-- Left Glass Card Panel -->
+    <rect x="24" y="66" width="426" height="520" rx="14" fill="#0F172A" fill-opacity="0.55" stroke="#1E293B" stroke-width="1" />
+
+    <!-- Left Header -->
+    <text x="44" y="94" font-size="11" font-weight="700" letter-spacing="1.5" fill="#22D3EE">VISUAL.MAP // IDENTITY_MATRIX</text>
+    <text x="430" y="94" text-anchor="end" font-size="10" fill="#64748B">[PORTRAIT.ASC]</text>
+
+    <!-- ASCII Portrait Viewport Box -->
+    <rect x="44" y="106" width="386" height="340" rx="10" fill="#030712" fill-opacity="0.7" stroke="#1E293B" stroke-width="1" />
+
+    <!-- Scanline Sweep Animation -->
+    <line x1="44" y1="106" x2="430" y2="106" stroke="#22D3EE" stroke-width="1.5" opacity="0.55">
+      <animate attributeName="y1" values="106;446;106" dur="4.5s" repeatCount="indefinite" />
+      <animate attributeName="y2" values="106;446;106" dur="4.5s" repeatCount="indefinite" />
+    </line>
+
+    <!-- ASCII Character Matrix -->
+    <text font-size="9" fill="#38BDF8" text-anchor="middle" xml:space="preserve" font-weight="600" opacity="0.95">
+      <tspan x="237" y="138">                    .---.                   </tspan>
+      <tspan x="237" y="150">                .-+#%%%%%#*-.               </tspan>
+      <tspan x="237" y="162">              .+#%%%%%%%%%%%#+.             </tspan>
+      <tspan x="237" y="174">             :*%%%%%%%%%%%%%%%*:            </tspan>
+      <tspan x="237" y="186">            :*%%%%%#*+++*#%%%%%*:           </tspan>
+      <tspan x="237" y="198">           .#%%%#=:.......:=#%%%#.          </tspan>
+      <tspan x="237" y="210">           *%%%=.............=%%%*          </tspan>
+      <tspan x="237" y="222">          :%%%+  .:::.  .:::. +%%%:         </tspan>
+      <tspan x="237" y="234">          +%%#  :#%%%%.%%%%#:  #%%+         </tspan>
+      <tspan x="237" y="246">          #%%-  *%%[+]  [+]%*  -%%#         </tspan>
+      <tspan x="237" y="258">          #%%.  :%%%%.  .%%%%: .%%#         </tspan>
+      <tspan x="237" y="270">          #%%:   :--:    :--:  :%%#         </tspan>
+      <tspan x="237" y="282">          +%%#        ..       #%%+         </tspan>
+      <tspan x="237" y="294">          :%%%+     :====:    +%%%:         </tspan>
+      <tspan x="237" y="306">           *%%%=     :--:    =%%%*          </tspan>
+      <tspan x="237" y="318">           .#%%%#=:.......:=#%%%#.          </tspan>
+      <tspan x="237" y="330">            :*%%%%%#*+++*#%%%%%*:           </tspan>
+      <tspan x="237" y="342">             :=*#%%%%%%%%%%%%%#*=:          </tspan>
+      <tspan x="237" y="354">          .:=+*#%%%%%%%%%%%%%%%#*+=:.       </tspan>
+      <tspan x="237" y="366">       .-*#%%%%%%%%%%%%%%%%%%%%%%%%%#*-.    </tspan>
+      <tspan x="237" y="378">     .+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+.  </tspan>
+      <tspan x="237" y="390">    :*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*: </tspan>
+      <tspan x="237" y="402">   :#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#:</tspan>
+      <tspan x="237" y="414">  .#%%#*+=============================+*#%%.</tspan>
+      <tspan x="237" y="426">  =%%*                                   *%=</tspan>
+      <tspan x="237" y="438">  #%%#                                   #%%</tspan>
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="3.5s" repeatCount="indefinite" />
+    </text>
+
+    <!-- Terminal Command Status Box -->
+    <rect x="44" y="460" width="386" height="110" rx="8" fill="#0F172A" fill-opacity="0.6" stroke="#1E293B" stroke-width="1" />
+    <text x="58" y="484" font-size="11" font-weight="600" fill="#818CF8">~/profile $ cat identity.json</text>
+    <text x="58" y="504" font-size="11" fill="#94A3B8">&gt; &quot;dev&quot;: &quot;Shubham Jena&quot;, &quot;role&quot;: &quot;CSE_STUDENT&quot;</text>
+    <text x="58" y="524" font-size="11" fill="#94A3B8">&gt; &quot;focus&quot;: &quot;Machine Learning &amp; Computer Vision&quot;</text>
+    <text x="58" y="544" font-size="11" fill="#10B981">&gt; &quot;status&quot;: &quot;Building, Solving &amp; Exploring&quot;</text>
+    <!-- Blinking Cursor -->
+    <text x="348" y="544" font-size="12" font-weight="700" fill="#22D3EE">_
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <!-- ==================== RIGHT COLUMN: SYSTEM.INFO ==================== -->
+  <g class="mono">
+    <!-- Right Glass Card Panel -->
+    <rect x="468" y="66" width="688" height="520" rx="14" fill="#0F172A" fill-opacity="0.55" stroke="#1E293B" stroke-width="1" />
+
+    <!-- Right Header -->
+    <text x="492" y="94" font-size="11" font-weight="700" letter-spacing="1.5" fill="#22D3EE">SYSTEM.INFO // TELEMETRY &amp; RUNTIME</text>
+    <text x="1132" y="94" text-anchor="end" font-size="10" fill="#10B981">● ACTIVE_SESSION</text>
+
+    <!-- Command Prompt -->
+    <text x="492" y="124" font-size="12" fill="#64748B">shubham@workstation:~$ ./profile --inspect</text>
+
+    <!-- Hero Name -->
+    <text x="492" y="160" class="sans" font-size="28" font-weight="800" letter-spacing="1.2" fill="url(#name-grad)">SHUBHAM JENA</text>
+
+    <!-- SMIL Rotating Roles -->
+    <g font-size="13" font-weight="600">
+      <!-- Role 1 -->
+      <text x="492" y="186" fill="#38BDF8">&gt; CSE Student | ML Explorer | Problem Solver
+        <animate attributeName="opacity" values="1;1;0;0;0;0;0;0;1" keyTimes="0;0.22;0.25;0.47;0.5;0.72;0.75;0.97;1" dur="16s" repeatCount="indefinite" />
+      </text>
+      <!-- Role 2 -->
+      <text x="492" y="186" fill="#818CF8">&gt; Deep Learning &amp; Computer Vision Enthusiast
+        <animate attributeName="opacity" values="0;0;1;1;0;0;0;0;0" keyTimes="0;0.22;0.25;0.47;0.5;0.72;0.75;0.97;1" dur="16s" repeatCount="indefinite" />
+      </text>
+      <!-- Role 3 -->
+      <text x="492" y="186" fill="#10B981">&gt; Python, Java, SQL &amp; Full-Stack Builder
+        <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0" keyTimes="0;0.47;0.5;0.72;0.75;0.97;1;1;1" dur="16s" repeatCount="indefinite" />
+      </text>
+      <!-- Role 4 -->
+      <text x="492" y="186" fill="#FBBF24">&gt; Algorithmic Problem Solver · LeetCode Active
+        <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0" keyTimes="0;0.72;0.75;0.97;1;1;1;1;1" dur="16s" repeatCount="indefinite" />
+      </text>
+    </g>
+
+    <!-- Divider 1 -->
+    <line x1="492" y1="204" x2="1132" y2="204" stroke="#1E293B" stroke-width="1" opacity="0.7" />
+
+    <!-- Symmetrical Info Grid -->
+    <g font-size="11">
+      <!-- Col 1 -->
+      <text x="492" y="226" fill="#64748B">&gt; LOCATION</text>
+      <text x="600" y="226" fill="#F8FAFC" font-weight="600">: India</text>
+
+      <text x="492" y="248" fill="#64748B">&gt; DEGREE</text>
+      <text x="600" y="248" fill="#F8FAFC" font-weight="600">: B.Tech Computer Science</text>
+
+      <text x="492" y="270" fill="#64748B">&gt; CORE_FOCUS</text>
+      <text x="600" y="270" fill="#22D3EE" font-weight="600">: Machine Learning &amp; CV</text>
+
+      <!-- Col 2 -->
+      <text x="810" y="226" fill="#64748B">&gt; LEETCODE</text>
+      <text x="920" y="226" fill="#F8FAFC" font-weight="600">: @shubhamdebugger</text>
+
+      <text x="810" y="248" fill="#64748B">&gt; RESUME</text>
+      <text x="920" y="248" fill="#F8FAFC" font-weight="600">: resume-myself.tiiny.site</text>
+
+      <text x="810" y="270" fill="#64748B">&gt; STATUS</text>
+      <text x="920" y="270" fill="#10B981" font-weight="600">: Open to Opportunities</text>
+    </g>
+
+    <!-- Divider 2 -->
+    <line x1="492" y1="288" x2="1132" y2="288" stroke="#1E293B" stroke-width="1" opacity="0.7" />
+
+    <!-- TECH STACK SECTION -->
+    <text x="492" y="310" font-size="11" font-weight="700" letter-spacing="1.5" fill="#22D3EE">TECH_STACK // CORE CAPABILITIES</text>
+
+    <!-- Tech Pills Row 1 -->
+    <g font-size="10" font-weight="600">
+      <!-- Python -->
+      <rect x="492" y="324" width="76" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="504" cy="336" r="2.5" fill="#22D3EE" />
+      <text x="514" y="340" fill="#F8FAFC">Python</text>
+
+      <!-- Java -->
+      <rect x="574" y="324" width="66" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="586" cy="336" r="2.5" fill="#FBBF24" />
+      <text x="595" y="340" fill="#F8FAFC">Java</text>
+
+      <!-- C -->
+      <rect x="646" y="324" width="48" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="656" cy="336" r="2.5" fill="#818CF8" />
+      <text x="666" y="340" fill="#F8FAFC">C</text>
+
+      <!-- SQL -->
+      <rect x="700" y="324" width="62" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="712" cy="336" r="2.5" fill="#10B981" />
+      <text x="722" y="340" fill="#F8FAFC">SQL</text>
+
+      <!-- PyTorch -->
+      <rect x="768" y="324" width="82" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="780" cy="336" r="2.5" fill="#EF4444" />
+      <text x="790" y="340" fill="#F8FAFC">PyTorch</text>
+
+      <!-- Scikit-Learn -->
+      <rect x="856" y="324" width="104" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="868" cy="336" r="2.5" fill="#22D3EE" />
+      <text x="877" y="340" fill="#F8FAFC">Scikit-Learn</text>
+
+      <!-- Pandas -->
+      <rect x="966" y="324" width="78" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="978" cy="336" r="2.5" fill="#818CF8" />
+      <text x="988" y="340" fill="#F8FAFC">Pandas</text>
+
+      <!-- YOLOv8 -->
+      <rect x="1050" y="324" width="82" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="1062" cy="336" r="2.5" fill="#10B981" />
+      <text x="1071" y="340" fill="#F8FAFC">YOLOv8</text>
+    </g>
+
+    <!-- Tech Pills Row 2 -->
+    <g font-size="10" font-weight="600">
+      <!-- MySQL -->
+      <rect x="492" y="356" width="74" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="504" cy="368" r="2.5" fill="#FBBF24" />
+      <text x="514" y="372" fill="#F8FAFC">MySQL</text>
+
+      <!-- MongoDB -->
+      <rect x="572" y="356" width="90" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="584" cy="368" r="2.5" fill="#10B981" />
+      <text x="594" y="372" fill="#F8FAFC">MongoDB</text>
+
+      <!-- Streamlit -->
+      <rect x="668" y="356" width="90" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="680" cy="368" r="2.5" fill="#EF4444" />
+      <text x="690" y="372" fill="#F8FAFC">Streamlit</text>
+
+      <!-- JavaScript -->
+      <rect x="764" y="356" width="98" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="776" cy="368" r="2.5" fill="#FBBF24" />
+      <text x="786" y="372" fill="#F8FAFC">JavaScript</text>
+
+      <!-- Git / GitHub -->
+      <rect x="868" y="356" width="106" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="880" cy="368" r="2.5" fill="#818CF8" />
+      <text x="890" y="372" fill="#F8FAFC">Git / GitHub</text>
+
+      <!-- Algorithms -->
+      <rect x="980" y="356" width="152" height="24" rx="6" fill="#1E293B" stroke="#334155" />
+      <circle cx="992" cy="368" r="2.5" fill="#22D3EE" />
+      <text x="1002" y="372" fill="#F8FAFC">Data Structures &amp; Algo</text>
+    </g>
+
+    <!-- Divider 3 -->
+    <line x1="492" y1="396" x2="1132" y2="396" stroke="#1E293B" stroke-width="1" opacity="0.7" />
+
+    <!-- FEATURED PROJECTS SECTION -->
+    <text x="492" y="418" font-size="11" font-weight="700" letter-spacing="1.5" fill="#22D3EE">FEATURED_PROJECTS // RESEARCH &amp; PRODUCTION</text>
+
+    <!-- Project 1 -->
+    <g font-size="11">
+      <text x="492" y="440" fill="#818CF8" font-weight="700">▸ Traffic Sign Recognition &amp; Road Safety System</text>
+      <text x="492" y="456" fill="#94A3B8">  Deep learning CV framework (YOLOv8, ResNet, Faster R-CNN &amp; Streamlit/Java GUI)</text>
+    </g>
+
+    <!-- Project 2 -->
+    <g font-size="11">
+      <text x="492" y="480" fill="#10B981" font-weight="700">▸ SK Enterprises Corporate Web Showcase</text>
+      <text x="492" y="496" fill="#94A3B8">  Full production responsive business portal with modern client showcase &amp; UX</text>
+    </g>
+
+    <!-- Project 3 -->
+    <g font-size="11">
+      <text x="492" y="520" fill="#22D3EE" font-weight="700">▸ Profile Analyser &amp; Algorithmic Machine Learning Workflows</text>
+      <text x="492" y="536" fill="#94A3B8">  Interactive developer analytics tool and data science classification/regression pipelines</text>
+    </g>
+
+    <!-- Divider 4 -->
+    <line x1="492" y1="550" x2="1132" y2="550" stroke="#1E293B" stroke-width="1" opacity="0.7" />
+
+    <!-- Connect / Telemetry Footer -->
+    <text x="492" y="572" font-size="11" fill="#64748B">CONNECT: [GitHub: @shubhamjena28] · [LinkedIn: /in/shubhamjena28] · [LeetCode: @shubhamdebugger] · [Email: jenashubham11@gmail.com]</text>
+  </g>
+</svg>

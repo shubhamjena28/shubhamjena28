@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=shubhamjena28&label=Profile%20Views&color=22d3ee&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/shubhamjena28/shubhamjena28/blob/main/Shubham_Jena_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-Shubham__Jena__Resume.pdf-10B981?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+    <img src="https://img.shields.io/badge/Resume-View-10B981?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
   <a href="https://leetcode.com/u/shubhamdebugger/">
     <img src="https://img.shields.io/badge/LeetCode-shubhamdebugger-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
@@ -34,7 +34,7 @@ I am a **Computer Science Undergraduate (B.Tech, CGPA 8.7/10, UPES, 2028)**, **M
 - 💡 **Core Strengths:** Python, Java, C, JavaScript, PyTorch, YOLO, Scikit-Learn, and Algorithms.
 - 🎯 **Problem Solving:** Solved 100+ problems on [LeetCode (@shubhamdebugger)](https://leetcode.com/u/shubhamdebugger/).
 - 🏆 **Hackathons:** Smart India Hackathon (**SIH 2026**) Round 2 Qualifier representing UPES.
-- 📄 **Resume / CV:** [**View Shubham_Jena_Resume.pdf**](https://github.com/shubhamjena28/shubhamjena28/blob/main/Shubham_Jena_Resume.pdf)
+- 📄 **Resume / CV:** [**View Resume**](https://github.com/shubhamjena28/shubhamjena28/blob/main/Shubham_Jena_Resume.pdf)
 - ⚡ **Fun Fact:** I love playing cricket and watching agentic technology movies.
 
 ---
@@ -45,11 +45,11 @@ Click below to view or download my complete official resume directly on GitHub:
 
 <p align="left">
   <a href="https://github.com/shubhamjena28/shubhamjena28/blob/main/Shubham_Jena_Resume.pdf">
-    <img src="https://img.shields.io/badge/📄_View_Resume-Shubham__Jena__Resume.pdf-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume PDF" />
+    <img src="https://img.shields.io/badge/📄_View-Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
   </a>
   &nbsp;&nbsp;
   <a href="https://raw.githubusercontent.com/shubhamjena28/shubhamjena28/main/Shubham_Jena_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/⬇️_Download-PDF_Resume-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Download PDF" />
+    <img src="https://img.shields.io/badge/⬇️_Download-Resume-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Download Resume" />
   </a>
 </p>
 
@@ -156,6 +156,6 @@ Click below to view or download my complete official resume directly on GitHub:
     <img src="https://img.shields.io/badge/Gmail-jenashubham11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" />
   </a>
   <a href="https://github.com/shubhamjena28/shubhamjena28/blob/main/Shubham_Jena_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/PDF_Resume-View-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF Resume" height="28" />
+    <img src="https://img.shields.io/badge/Resume-View-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" height="28" />
   </a>
 </p>

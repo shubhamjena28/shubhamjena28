@@ -7,10 +7,6 @@
 </div>
 
 <p align="center">
-  <em>Every panel above is a single &lt;picture&gt; tag — live GitHub telemetry, rendered on request, animated with SMIL.</em>
-</p>
-
-<p align="center">
   <a href="https://komarev.com/ghpvc/?username=shubhamjena28&label=Profile%20Views&color=00f5c4&style=flat-square">
     <img src="https://komarev.com/ghpvc/?username=shubhamjena28&label=Profile%20Views&color=00f5c4&style=flat-square" alt="Profile Views" />
   </a>

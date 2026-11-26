@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 420" width="1180" height="420" role="img" aria-label="Work Projects Grid">
+  <defs>
+    <linearGradient id="proj-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#143B35" />
+      <stop offset="50%" stop-color="#00F5C4" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#143B35" />
+    </linearGradient>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect width="1180" height="420" rx="18" fill="#0A1318" stroke="url(#proj-border)" stroke-width="1.2" />
+
+  <!-- Header -->
+  <g class="mono">
+    <text x="44" y="38" font-size="14" font-weight="800" fill="#00F5C4">PROJECTS.LIST</text>
+    <text x="210" y="38" font-size="12" fill="#5E9E94">./projects.sh --all</text>
+    <text x="1136" y="38" text-anchor="end" font-size="11" fill="#5E9E94">4 items</text>
+    <line x1="44" y1="52" x2="1136" y2="52" stroke="#143B35" stroke-width="1" />
+  </g>
+
+  <!-- Grid of Cards -->
+  <g class="mono">
+
+    <!-- Card: traffic-sign-recognition -->
+    <rect x="44" y="74" width="536" height="150" rx="12" fill="#0B171D" stroke="#163D38" stroke-width="1.2" />
+    
+    <text x="64" y="106" font-size="14" font-weight="700" fill="#00F5C4">▸ traffic-sign-recognition</text>
+    <text x="64" y="130" font-size="11" fill="#CBD5E1">Deep learning CV system for traffic sign detection &amp; road safety.</text>
+
+    <!-- Circular Score Gauge -->
+    <g transform="translate(514, 126)">
+      <circle cx="0" cy="0" r="28" fill="none" stroke="#0E2B2A" stroke-width="5" />
+      <circle cx="0" cy="0" r="28" fill="none" stroke="#00F5C4" stroke-width="5"
+              stroke-dasharray="246, 260" stroke-linecap="round" transform="rotate(-90)" />
+      <text x="0" y="4" text-anchor="middle" font-size="11" font-weight="800" fill="#00F5C4">98%</text>
+    </g>
+
+    <!-- Tags -->
+    
+      <rect x="64" y="166" width="61.0" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="94.5" y="180" text-anchor="middle" font-size="10" fill="#5E9E94">python</text>
+      <rect x="133.0" y="166" width="68.5" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="167.25" y="180" text-anchor="middle" font-size="10" fill="#5E9E94">pytorch</text>
+      <rect x="209.5" y="166" width="46.0" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="232.5" y="180" text-anchor="middle" font-size="10" fill="#5E9E94">yolo</text>
+      <rect x="263.5" y="166" width="31.0" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="279.0" y="180" text-anchor="middle" font-size="10" fill="#5E9E94">cv</text>
+
+    <!-- Footer updated time -->
+    <text x="64" y="208" font-size="10" fill="#5E9E94">⭐ CV Framework</text>
+    <!-- Card: airfare-price-index -->
+    <rect x="600" y="74" width="536" height="150" rx="12" fill="#0B171D" stroke="#163D38" stroke-width="1.2" />
+    
+    <text x="620" y="106" font-size="14" font-weight="700" fill="#00F5C4">▸ airfare-price-index</text>
+    <text x="620" y="130" font-size="11" fill="#CBD5E1">Real-time airfare scraping &amp; fare-trend aggregator. SIH 2026 Round 2.</text>
+
+    <!-- Circular Score Gauge -->
+    <g transform="translate(1070, 126)">
+      <circle cx="0" cy="0" r="28" fill="none" stroke="#0E2B2A" stroke-width="5" />
+      <circle cx="0" cy="0" r="28" fill="none" stroke="#F59E0B" stroke-width="5"
+              stroke-dasharray="220, 260" stroke-linecap="round" transform="rotate(-90)" />
+      <text x="0" y="4" text-anchor="middle" font-size="11" font-weight="800" fill="#F59E0B">SIH</text>
+    </g>
+
+    <!-- Tags -->
+    
+      <rect x="620" y="166" width="61.0" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="650.5" y="180" text-anchor="middle" font-size="10" fill="#5E9E94">python</text>
+      <rect x="689.0" y="166" width="76.0" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="727.0" y="180" text-anchor="middle" font-size="10" fill="#5E9E94">scraping</text>
+      <rect x="773.0" y="166" width="83.5" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="814.75" y="180" text-anchor="middle" font-size="10" fill="#5E9E94">analytics</text>
+      <rect x="864.5" y="166" width="38.5" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="883.75" y="180" text-anchor="middle" font-size="10" fill="#5E9E94">sih</text>
+
+    <!-- Footer updated time -->
+    <text x="620" y="208" font-size="10" fill="#5E9E94">⭐ SIH 2026 Qualifier</text>
+    <!-- Card: auto-attendance-yolo -->
+    <rect x="44" y="240" width="536" height="150" rx="12" fill="#0B171D" stroke="#163D38" stroke-width="1.2" />
+    
+    <text x="64" y="272" font-size="14" font-weight="700" fill="#00F5C4">▸ auto-attendance-yolo</text>
+    <text x="64" y="296" font-size="11" fill="#CBD5E1">Real-time face detection using YOLO with automated Excel attendance logging.</text>
+
+    <!-- Circular Score Gauge -->
+    <g transform="translate(514, 292)">
+      <circle cx="0" cy="0" r="28" fill="none" stroke="#0E2B2A" stroke-width="5" />
+      <circle cx="0" cy="0" r="28" fill="none" stroke="#2DD4BF" stroke-width="5"
+              stroke-dasharray="235, 260" stroke-linecap="round" transform="rotate(-90)" />
+      <text x="0" y="4" text-anchor="middle" font-size="11" font-weight="800" fill="#2DD4BF">95%</text>
+    </g>
+
+    <!-- Tags -->
+    
+      <rect x="64" y="332" width="61.0" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="94.5" y="346" text-anchor="middle" font-size="10" fill="#5E9E94">python</text>
+      <rect x="133.0" y="332" width="46.0" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="156.0" y="346" text-anchor="middle" font-size="10" fill="#5E9E94">yolo</text>
+      <rect x="187.0" y="332" width="61.0" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="217.5" y="346" text-anchor="middle" font-size="10" fill="#5E9E94">vision</text>
+      <rect x="256.0" y="332" width="53.5" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="282.75" y="346" text-anchor="middle" font-size="10" fill="#5E9E94">excel</text>
+
+    <!-- Footer updated time -->
+    <text x="64" y="374" font-size="10" fill="#5E9E94">⭐ Real-time YOLO</text>
+    <!-- Card: sk-enterprises-web -->
+    <rect x="600" y="240" width="536" height="150" rx="12" fill="#0B171D" stroke="#163D38" stroke-width="1.2" />
+    
+    <text x="620" y="272" font-size="14" font-weight="700" fill="#00F5C4">▸ sk-enterprises-web</text>
+    <text x="620" y="296" font-size="11" fill="#CBD5E1">Modern responsive corporate web showcase with dynamic client portal.</text>
+
+    <!-- Circular Score Gauge -->
+    <g transform="translate(1070, 292)">
+      <circle cx="0" cy="0" r="28" fill="none" stroke="#0E2B2A" stroke-width="5" />
+      <circle cx="0" cy="0" r="28" fill="none" stroke="#10B981" stroke-width="5"
+              stroke-dasharray="260, 260" stroke-linecap="round" transform="rotate(-90)" />
+      <text x="0" y="4" text-anchor="middle" font-size="11" font-weight="800" fill="#10B981">100%</text>
+    </g>
+
+    <!-- Tags -->
+    
+      <rect x="620" y="332" width="91.0" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="665.5" y="346" text-anchor="middle" font-size="10" fill="#5E9E94">javascript</text>
+      <rect x="719.0" y="332" width="46.0" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="742.0" y="346" text-anchor="middle" font-size="10" fill="#5E9E94">css3</text>
+      <rect x="773.0" y="332" width="46.0" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="796.0" y="346" text-anchor="middle" font-size="10" fill="#5E9E94">vite</text>
+      <rect x="827.0" y="332" width="61.0" height="20" rx="5" fill="#0D2226" stroke="#164340" />
+      <text x="857.5" y="346" text-anchor="middle" font-size="10" fill="#5E9E94">portal</text>
+
+    <!-- Footer updated time -->
+    <text x="620" y="374" font-size="10" fill="#5E9E94">⭐ Production Ready</text>
+  </g>
+</svg>

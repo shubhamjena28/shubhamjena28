@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 270" width="1180" height="270" role="img" aria-label="Language Stack - Repository Weighted Technologies">
+  <defs>
+    <linearGradient id="lang-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#143B35" />
+      <stop offset="50%" stop-color="#00F5C4" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#143B35" />
+    </linearGradient>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect width="1180" height="270" rx="18" fill="#0A1318" stroke="url(#lang-border)" stroke-width="1.2" />
+
+  <!-- Header -->
+  <g class="mono">
+    <text x="44" y="36" font-size="16" font-weight="800" fill="#FFFFFF">Language Stack</text>
+    <text x="44" y="52" font-size="11" fill="#5E9E94">Repository-weighted technologies</text>
+    <text x="1136" y="42" text-anchor="end" font-size="11" font-weight="600" fill="#00F5C4">v stack.scan</text>
+    <line x1="44" y1="60" x2="1136" y2="60" stroke="#143B35" stroke-width="1" />
+  </g>
+
+  <!-- Progress Bars -->
+  <g class="mono">
+
+    <!-- JavaScript -->
+    <circle cx="58" cy="70" r="4.5" fill="#F59E0B" />
+    <text x="74" y="74" font-size="12" font-weight="600" fill="#FFFFFF">JavaScript</text>
+    <text x="240" y="74" font-size="12" font-weight="600" fill="#F59E0B">45%</text>
+    
+    <!-- Track & Bar -->
+    <rect x="290" y="64" width="820" height="12" rx="6" fill="#0E1E24" />
+    <rect x="290" y="64" width="410" height="12" rx="6" fill="#F59E0B">
+      <animate attributeName="width" from="0" to="410" dur="1.2s" fill="freeze" />
+    </rect>
+    <!-- Jupyter Notebook -->
+    <circle cx="58" cy="100" r="4.5" fill="#F97316" />
+    <text x="74" y="104" font-size="12" font-weight="600" fill="#FFFFFF">Jupyter Notebook</text>
+    <text x="240" y="104" font-size="12" font-weight="600" fill="#F97316">23%</text>
+    
+    <!-- Track & Bar -->
+    <rect x="290" y="94" width="820" height="12" rx="6" fill="#0E1E24" />
+    <rect x="290" y="94" width="210" height="12" rx="6" fill="#F97316">
+      <animate attributeName="width" from="0" to="210" dur="1.2s" fill="freeze" />
+    </rect>
+    <!-- Python -->
+    <circle cx="58" cy="130" r="4.5" fill="#00F5C4" />
+    <text x="74" y="134" font-size="12" font-weight="600" fill="#FFFFFF">Python</text>
+    <text x="240" y="134" font-size="12" font-weight="600" fill="#00F5C4">13%</text>
+    
+    <!-- Track & Bar -->
+    <rect x="290" y="124" width="820" height="12" rx="6" fill="#0E1E24" />
+    <rect x="290" y="124" width="120" height="12" rx="6" fill="#00F5C4">
+      <animate attributeName="width" from="0" to="120" dur="1.2s" fill="freeze" />
+    </rect>
+    <!-- TypeScript -->
+    <circle cx="58" cy="160" r="4.5" fill="#3B82F6" />
+    <text x="74" y="164" font-size="12" font-weight="600" fill="#FFFFFF">TypeScript</text>
+    <text x="240" y="164" font-size="12" font-weight="600" fill="#3B82F6">9%</text>
+    
+    <!-- Track & Bar -->
+    <rect x="290" y="154" width="820" height="12" rx="6" fill="#0E1E24" />
+    <rect x="290" y="154" width="82" height="12" rx="6" fill="#3B82F6">
+      <animate attributeName="width" from="0" to="82" dur="1.2s" fill="freeze" />
+    </rect>
+    <!-- Java -->
+    <circle cx="58" cy="190" r="4.5" fill="#EF4444" />
+    <text x="74" y="194" font-size="12" font-weight="600" fill="#FFFFFF">Java</text>
+    <text x="240" y="194" font-size="12" font-weight="600" fill="#EF4444">6%</text>
+    
+    <!-- Track & Bar -->
+    <rect x="290" y="184" width="820" height="12" rx="6" fill="#0E1E24" />
+    <rect x="290" y="184" width="55" height="12" rx="6" fill="#EF4444">
+      <animate attributeName="width" from="0" to="55" dur="1.2s" fill="freeze" />
+    </rect>
+    <!-- HTML / CSS -->
+    <circle cx="58" cy="220" r="4.5" fill="#A855F7" />
+    <text x="74" y="224" font-size="12" font-weight="600" fill="#FFFFFF">HTML / CSS</text>
+    <text x="240" y="224" font-size="12" font-weight="600" fill="#A855F7">4%</text>
+    
+    <!-- Track & Bar -->
+    <rect x="290" y="214" width="820" height="12" rx="6" fill="#0E1E24" />
+    <rect x="290" y="214" width="36" height="12" rx="6" fill="#A855F7">
+      <animate attributeName="width" from="0" to="36" dur="1.2s" fill="freeze" />
+    </rect>
+  </g>
+</svg>

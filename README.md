@@ -28,6 +28,8 @@
 
 ### 🚀 Overview & Focus
 
+Computer Science Engineering student specializing in AI/ML, passionate about building intelligent solutions through Machine Learning, Deep Learning, and emerging AI technologies. I enjoy turning ideas into practical projects, exploring new technologies, and continuously learning through experimentation and innovation.
+
 - 🔭 **Current Focus:** Deep Learning, Real-Time Object Detection, Computer Vision pipelines, and Supervised Learning models.
 - 💡 **Core Strengths:** Python, Java, C, JavaScript, SQL, PyTorch, YOLO, Scikit-Learn, and Algorithms.
 - 🎯 **Algorithmic Problem Solving:** 100+ problems solved on [LeetCode (@shubhamdebugger)](https://leetcode.com/u/shubhamdebugger/).

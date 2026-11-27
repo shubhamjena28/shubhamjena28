@@ -28,8 +28,6 @@
 
 ### 🚀 Overview & Focus
 
-I am a **Computer Science Undergraduate (B.Tech, CGPA 8.7/10, UPES, 2028)**, **Machine Learning Explorer**, and **Software Developer**. Experienced in building real-time ML and data systems in Python, PyTorch, YOLO, and React, with a strong foundation in Object-Oriented Programming and Data Structures & Algorithms.
-
 - 🔭 **Current Focus:** Deep Learning, Real-Time Object Detection, Computer Vision pipelines, and Supervised Learning models.
 - 💡 **Core Strengths:** Python, Java, C, JavaScript, SQL, PyTorch, YOLO, Scikit-Learn, and Algorithms.
 - 🎯 **Algorithmic Problem Solving:** 100+ problems solved on [LeetCode (@shubhamdebugger)](https://leetcode.com/u/shubhamdebugger/).
